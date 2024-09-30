@@ -1,4 +1,4 @@
-### `$ whoami`
+### `$ whoami` `Hamza Yousaf`
 
 > [![View count](https://visitcount.itsvg.in/api?id=detroit007&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=detroit007)
 
@@ -6,7 +6,7 @@
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full+Stack+Developer;I'm+a+System+Engineer;I'm+a+DevSecOps Engineer"></p>
 
-- 🇻🇳 : I'm from VietNam
+- 🇻🇳 : I'm from Paksitan
 - 👀 : Here is [my personal website](#)
 - 📧 : Contact me at [hamzayousaf056@gmail.com](mailto:hamzayousaf056@gmail.com)
 - ❤️ : I'm passionate about:
@@ -23,7 +23,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/detroit007?style=social)
 `Coding Reshape Future`
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/detroit007/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ltp1120/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-yousaf-b41b34142)
 
 ### 🛠 Languages and Tools
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
