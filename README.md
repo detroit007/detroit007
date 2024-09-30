@@ -2,36 +2,19 @@
 
 > [![View count](https://visitcount.itsvg.in/api?id=detroit007&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=detroit007)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full+Stack+Developer;I'm+a+System+Engineer;I'm+a+DevSecOps Engineer"></p>
 
-- 🇻🇳 : I'm from Paksitan
+- 🇻🇳 : I'm from VietNam
 - 👀 : Here is [my personal website](#)
 - 📧 : Contact me at [hamzayousaf056@gmail.com](mailto:hamzayousaf056@gmail.com)
 - ❤️ : I'm passionate about:
-  - 🖥️ Software Engineer
-  - 🌐 Frontend Development
-  - ⚛️ React, Next
-  - 📱 React Native
-  - 🟢 Node
-  - 🐘 PostgreSQL
-  - ☁️ AWS
-  - 🔵 Azure
-  - 🖥️ Website Developer
-
-[<img src="https://images.credly.com/size/680x680/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="100">](https://www.credly.com/badges/a6f3b169-ea7e-4883-a8e9-dd27c13e779f)
-[<img src="https://images.credly.com/images/2d57deba-bf1e-4a83-87fa-a154ea0b6d5c/image.png" width="100">](https://www.credly.com/badges/1d9d15eb-8677-4a30-94bf-37dc373a1489)
-[<img src="https://images.credly.com/images/d2361d38-7e56-4eaf-9592-53b394e1792e/image.png" width="100">](https://www.credly.com/badges/41d6637d-003c-4da4-bd15-8be665cd8642)
-[<img src="https://images.credly.com/size/680x680/images/cf9197c5-bbe4-458b-b42b-6bfbe6ddc2f9/image.png" width="100">](https://www.credly.com/badges/181b0588-77bb-430a-855c-0f61d916bf64)
-[<img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="100">](https://www.credly.com/badges/5ea8e950-1f00-4880-8c8d-a0750bbe0ea5)
-[<img src="https://images.credly.com/size/680x680/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" width="100">](https://www.credly.com/badges/2722e59a-26df-4d5c-b8e2-2601ce3a3928)
-[<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100">](https://learn.microsoft.com/en-us/users/chungnguyen1120/credentials/249607c0f4516eac)
-[<img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="100">](https://learn.microsoft.com/en-us/users/chungnguyen1120/credentials/c6d70da18e9c6190)
-[<img src="https://images.credly.com/size/680x680/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="100">](https://www.credly.com/badges/b1ce341d-0d74-40cc-abf4-b5ca2cabed93)
-[<img src="https://images.credly.com/size/680x680/images/8395e492-f8aa-4617-a258-6c844f628fa2/image.png" width="100">](https://www.credly.com/badges/749bf565-dd4b-41bb-bc1e-04cc8a582832)
-[<img src="https://images.credly.com/size/680x680/images/a026e7f2-08af-4b73-8cc1-5aec7959faf8/image.png" width="100">](https://www.credly.com/badges/90bef0cb-fe99-4b84-bf03-1323b1980b37)
-[<img src="https://images.credly.com/size/680x680/images/e3d0d18a-edd0-49b3-bad9-f09fffaa29e3/20-14376-SPLK-Certification-Badge-Youracclaim.com-101_Splunk-Core-Certified-Power-User.png" width="100">](https://www.credly.com/badges/4ccbb8db-7371-4d6a-96dd-c2076fc6b761)
-[<img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="100">](https://www.credly.com/badges/b0c7f823-b7ae-4ff7-b865-0963bf27693f)
+  - 💻 Software Developer
+  - 🧠 GenAI enthusiast
+  - 🚀 DevOps practitioner
+  - 🌐 Website Developer
+  - 📱 Mobile Application Developer
 
 ### 🌐 Socials
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -39,39 +22,33 @@
 `detroit007`
 ![GitHub stars](https://img.shields.io/github/stars/detroit007?style=social)
 `Coding Reshape Future`
-![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrw-zlFbUUGfXxJbEnXKvTQ?style=social)
-`CRF Community`
-![YouTube Views](https://img.shields.io/youtube/channel/views/UCrw-zlFbUUGfXxJbEnXKvTQ?style=social)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100045406261491)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://blog.network.com/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/CodingReshapeFuture)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/detroit007/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ltp1120/)
 
 ### 🛠 Languages and Tools
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" title="TypeScript" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" title="Next.js" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" title="ReactJS" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" title="Redux" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" title="Vue.js" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" title="Nuxt.js" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=61DAFB" title="React Native" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" title="Node.js" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" title="Express.js" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" title="MongoDB" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" title="TailwindCSS" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" title="Three.js" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" title="PostgreSQL" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" title="Redux/Redux Toolkit" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" title="TypeScript" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" title="TailwindCSS" 
+height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/AWS-282C34?logo=amazon-aws&logoColor=FF9900" title="AWS" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Azure-282C34?logo=microsoft-azure&logoColor=0078D4" title="Azure" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/OpenAI-282C34?logo=openai&logoColor=00A86B" title="OpenAI" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Llama3-282C34?logo=llama.ai&logoColor=00A86B" title="Llama3" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Hugging%20Face-282C34?logo=hugging-face&logoColor=00A86B" title="Hugging Face" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" title="Docker" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="git" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" title="HTML5" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" title="CSS3" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" title="SASS" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" title="Bootstrap" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" title="ESLint" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="git" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" title="Firebase" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" title="WordPress" height="25"/> &nbsp;
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
