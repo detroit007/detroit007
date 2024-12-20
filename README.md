@@ -5,11 +5,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- 🇻🇳 : I'm from Paksitan
+- 🇻🇳 : I'm from Pakistan
 - 👀 : Here is [my personal website](#)
 - 📧 : Contact me at [hamzayousaf056@gmail.com](mailto:hamzayousaf056@gmail.com)
 - ❤️ : I'm passionate about:
-  - 💻 Software Developer
+  - 💻 Software Development
   - 🧠 GenAI enthusiast
   - 🚀 DevOps practitioner
   - 🌐 Website Developer
