@@ -1,11 +1,10 @@
 ### `$ whoami`
 
-> [![View count](https://visitcount.itsvg.in/api?id=detroit007&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=detroit007)
+<!-- > [![View count](https://visitcount.itsvg.in/api?id=detroit007&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=detroit007) -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-- 🇻🇳 : I'm from Pakistan
+- ![Pakistan Flag](https://flagcdn.com/w320/pk.png) : I'm from Pakistan
 - 👀 : Here is [my personal website](#)
 - 📧 : Contact me at [hamzayousaf056@gmail.com](mailto:hamzayousaf056@gmail.com)
 - ❤️ : I'm passionate about:
@@ -16,6 +15,7 @@
   - 📱 Mobile Application Developer
 
 ### 🌐 Socials
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 `detroit007`
@@ -25,6 +25,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-yousaf-b41b34142)
 
 ### 🛠 Languages and Tools
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" title="Next.js" height="25"/> &nbsp;
@@ -50,21 +51,24 @@ height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" title="CSS3" height="25"/> &nbsp;
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [<img src="https://github-readme-stats.vercel.app/api?username=detroit007&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=detroit007)
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=detroit007&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=detroit007)
 
 ### 🏆 GitHub Trophies
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a href="https://github-trophies.vercel.app/?username=detroit007" target="_blank">
   <img src="https://github-trophies.vercel.app/?username=detroit007&theme=radical&margin-w=4&margin-h=4">
 </a>
 
-*User achievement statistics by [Github Trophies](https://github.com/detroit007/github-trophies)*
+_User achievement statistics by [Github Trophies](https://github.com/detroit007/github-trophies)_
 
 ### 📈 User Statistics
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
