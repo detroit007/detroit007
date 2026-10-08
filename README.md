@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://flagcdn.com/w80/pk.png" width="30" /> I'm from Pakistan
   &nbsp;|&nbsp;
-  👨‍💻 <a href="#">My Website</a>
+  👨‍💻 <a href="https://hamzayousaf.dev/">My Website</a>
   &nbsp;|&nbsp;
   📧 <a href="mailto:hamzayousaf056@gmail.com">hamzayousaf056@gmail.com</a>
 </p>
